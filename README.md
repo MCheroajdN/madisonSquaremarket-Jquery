@@ -33,6 +33,6 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher
-* GitHub: https://mcheroajdn.github.io/Portforlio-Website/
+* GitHub: https://mcheroajdn.github.io/madisonSquaremarket-Jquery/
 
 
